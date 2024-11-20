@@ -9,7 +9,7 @@ This repository contains a structured analysis of a consumer retail rewards comp
   - **Insights_on_consumer_behavior_top_brands_and_growth_trends.pdf**: SQL queries for data analysis.
 
 - **Jupyter Notebooks:**
-  - **first_explore_data.ipynb**: Notebook for data exploration, including cleaning, inspection, and visualization.
+  - **first_explore_data_RamyaKalyanaraman.ipynb**: Notebook for data exploration, including cleaning, inspection, and visualization.
   - **second_sql.ipynb**: SQL query execution and analysis within a Python environment.
 
 ## Objectives
